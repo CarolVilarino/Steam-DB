@@ -45,7 +45,7 @@ Sabrina [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/b08f96298a4245f
 
 
 ## 👨‍💻 Autores
-Alessandra
+Alessandra : https://github.com/alebulka
 
 Carol Vilarino: https://github.com/carolVilarino/
 
