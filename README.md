@@ -55,6 +55,6 @@ Raquel Mendes Rodrigues: https://github.com/raquelmrodrigues
 
 Sabrina Leticia Alves: https://github.com/Sabrinalvs
 
-##  📝 Licença
+## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto está sobe a licença [MIT](./LICENSE).
