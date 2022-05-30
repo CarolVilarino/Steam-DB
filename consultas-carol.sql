@@ -42,3 +42,7 @@ SELECT `name`, `genres`,
       SUM( CASE WHEN `genres` LIKE '%Web Publishing%' THEN 1 ELSE 0 END ) AS `Web Publishing`
   FROM `steam`
 GROUP BY `name`
+
+# quais as publishers que possuem mais de 3 jogos publicados
+SELECT `developer`, count( `name` ) `jogosPublicados` 
+FROM `steam` group by `developer` order by `jogosPublicados` desc;
