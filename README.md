@@ -20,21 +20,23 @@ Sabrina [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/b08f96298a4245f
 
 - Quais os 3 gêneros mais jogados? [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/b08f96298a4245f299e7709ac59a88ace825a997/Consultas_projetoM3.sql#L36).
 
-- 1 molly
-- 2
-- 3
+- Porcentagem dos jogos e suas categorias (multiplayer, coop, single), clique em [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/cd046e49b7b1e7ca818dbb776e231941aff30346/consultas-carol.sql#L5) para ver.
 
-- Quais jogos tem o tempo médio de jogo maior que 1000? Acesse clicando neste [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/e65cc0642f460cc8909b56ee7b4b50ca3243b6ff/querys.sql#L3).
+- Quais generos tem mais jogos publicados na steam? Clique em [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/cd046e49b7b1e7ca818dbb776e231941aff30346/consultas-carol.sql#L14) para ver.
 
-- Quantos jogos com avaliacao positiva maior que 1000 custam 0 reais? Acesse clicando neste [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/e65cc0642f460cc8909b56ee7b4b50ca3243b6ff/querys.sql#L7).
-
--  Quais jogos foram lançados entre 2006 e 2010 e custam mais que 10 dolares? Acesse clicando neste [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/e65cc0642f460cc8909b56ee7b4b50ca3243b6ff/querys.sql#L11).
+- Quais as publishers que possuem mais de 3 jogos publicados? Clique em [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/cd046e49b7b1e7ca818dbb776e231941aff30346/consultas-carol.sql#L47) para ver.
 
 - Top 5 dos jogos com maiores conquistas e avaliações positivas encontra-se nesse [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/afdc61b5810e11ca2b0777de8187cf82f860a6d8/classificacao.sql#L3).
 
 - Os 5 jogos com menores conquistas e avaliações negativas encontra-se nesse [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/afdc61b5810e11ca2b0777de8187cf82f860a6d8/classificacao.sql#L6).
 
 - Top 5 dos jogos com classificação por gênero e média de preço encontra-se nesse [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/afdc61b5810e11ca2b0777de8187cf82f860a6d8/classificacao.sql#L11).
+
+- Quais jogos tem o tempo médio de jogo maior que 1000? Acesse clicando neste [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/e65cc0642f460cc8909b56ee7b4b50ca3243b6ff/querys.sql#L3).
+
+- Quantos jogos com avaliacao positiva maior que 1000 custam 0 reais? Acesse clicando neste [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/e65cc0642f460cc8909b56ee7b4b50ca3243b6ff/querys.sql#L7).
+
+-  Quais jogos foram lançados entre 2006 e 2010 e custam mais que 10 dolares? Acesse clicando neste [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/e65cc0642f460cc8909b56ee7b4b50ca3243b6ff/querys.sql#L11).
 
 - Qual é o jogo e sua desenvolvedora que tem os 3 jogos mais caros e suas avaliações? Clique no [arquivo](https://github.com/CarolVilarino/Steam-DB/blob/ba83354f033f4195d95b02d256246dd905e5c6ee/Perguntas-e-consultas-Sabrina.sql#L2).
 
